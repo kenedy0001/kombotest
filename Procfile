@@ -1,0 +1,1 @@
+web:gunicorn kentest.wsgi --log-file -
